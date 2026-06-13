@@ -30,6 +30,25 @@ I developed a Bank Management System using the C programming language as part of
 
 • Conditional Statements & Loops
 
+
+## Screenshots
+
+### Main Menu
+
+(Add screenshot here)
+
+### Account Creation
+
+(Add screenshot here)
+
+### Transactions
+
+(Add screenshot here)
+
+## Author
+
+Your Name
+
 Through this project, I gained practical experience with data management, file operations, modular programming, and problem-solving.
 
 Looking forward to building more advanced software projects in the coming semesters.
